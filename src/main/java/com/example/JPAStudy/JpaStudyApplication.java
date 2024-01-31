@@ -9,7 +9,7 @@ public class JpaStudyApplication {
 	public static void main(String[] args) {
 
 	SpringApplication.run(JpaStudyApplication.class, args);
-		System.out.println("I also changed 2" );
+		System.out.println("I also changed 5" );
 
 
 	}
