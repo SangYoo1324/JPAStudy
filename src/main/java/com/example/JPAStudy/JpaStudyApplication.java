@@ -7,8 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JpaStudyApplication {
 
 	public static void main(String[] args) {
-	pringApplication.run(JpaStudyApplication.class, args);
+
+	SpringApplication.run(JpaStudyApplication.class, args);
 		System.out.println("I also changed");
+
 	}
 
 }
