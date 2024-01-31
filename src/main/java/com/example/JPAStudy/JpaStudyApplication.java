@@ -9,9 +9,7 @@ public class JpaStudyApplication {
 	public static void main(String[] args) {
 
 	SpringApplication.run(JpaStudyApplication.class, args);
-
 		System.out.println("I also  not changed 9");
-
 
 
 
