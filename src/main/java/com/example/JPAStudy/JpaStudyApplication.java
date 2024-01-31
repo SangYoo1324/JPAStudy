@@ -11,6 +11,7 @@ public class JpaStudyApplication {
 	SpringApplication.run(JpaStudyApplication.class, args);
 		System.out.println("I also not changed");
 
+
 	}
 
 }
